@@ -1,20 +1,24 @@
 ## state life staffing LLC.
 
-We believe in creating a dynamic nursing environment that is safe, trusting and collaborative and provides exemplary care at every level. It is an environment based on mutual respect and personal integrity where our patients feel comfortable and confident in the care they receive and our colleagues are supported and nurtured. It embodies clinical expertise, empowerment, lifelong learning, shared leadership, research and use of current knowledge and technology while fostering recruitment and retention of nurses who demonstrate integrity, accountability, competency and professionalism. We are strengthening our practice through continuous learning, innovation and nursing research.
-You can use the [editor on GitHub](https://github.com/nasirax/testwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We believe in creating a dynamic travel nursing environment that is safe, trusting and collaborative and provides exemplary care at every level. It is an environment based on mutual respect and personal integrity where patients feel comfortable and confident in the care they receive and our colleagues are supported and nurtured. It embodies clinical expertise, empowerment, lifelong learning, shared leadership, research and use of current knowledge and technology while fostering recruitment and retention of nurses who demonstrate integrity, accountability, competency and professionalism. We are strengthening our practice through continuous learning, innovation and nursing research. 
+Our travel Nurses are committed to patient/family-centered care and dedicated to getting patients to their highest level of self-care while promoting health, healing and wellness. We are strengthening our practice through continuous learning, innovation and nursing research.every patient and family has the right to holistic, compassionate, competent, ethical, quality health care throughout all stages of illness and health. The quality of that nursing care is enhanced by community involvement, continuing education, fiscal responsibility and evidence-based practice to improve outcomes across the continuum of care.
+We salute our all travel nurses for their exemplary practice and commitment during pendamic to providing world-class care in every encounter and every setting. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### under construction
+### Our Mission
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are committed to serve, improving health by attaining the highest standard of quality in care delivery, education, and falow new research initiatives.
+
+Our Vision
+
+As a State Life Stffing LLC, travel nursing agancy, we will deliver the best possible experience for all patients wherever we interact with them. We will foster teaching, learning and discovery, fiscal responsibility, and adaptability to change. 
 
 ```markdown
 Syntax highlighted code block
 
 # Header 1 
 ## Header 2
-### Header 3
+### Come join our elite team today!
 
 - Bulleted
 - List
