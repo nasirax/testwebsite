@@ -1,5 +1,6 @@
-## Welcome to state life staffing LLC.
+## state life staffing LLC.
 
+We believe in creating a dynamic nursing environment that is safe, trusting and collaborative and provides exemplary care at every level. It is an environment based on mutual respect and personal integrity where our patients feel comfortable and confident in the care they receive and our colleagues are supported and nurtured. It embodies clinical expertise, empowerment, lifelong learning, shared leadership, research and use of current knowledge and technology while fostering recruitment and retention of nurses who demonstrate integrity, accountability, competency and professionalism. We are strengthening our practice through continuous learning, innovation and nursing research.
 You can use the [editor on GitHub](https://github.com/nasirax/testwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -11,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 
 ## Header 2
 ### Header 3
 
