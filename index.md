@@ -12,7 +12,7 @@ We are committed to serve, improving health by attaining the highest standard of
 Our Vision
 
 As a State Life Stffing LLC, travel nursing agancy, we will deliver the best possible experience for all patients wherever we interact with them. We will foster teaching, learning and discovery, fiscal responsibility, and adaptability to change. 
-![thumbnail 1](https://user-images.githubusercontent.com/95154546/143731469-85302824-6b58-4a69-aeaf-d716446c57d4.jpg)
+![thumbnail 1]
 
 ```markdown
 Syntax highlighted code block
